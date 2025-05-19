@@ -1,3 +1,6 @@
+## Original author: https://github.com/aliyunav/Finger
+## Update sdk code for IDA 9
+
 # Finger
 Finger, a tool for recognizing function symbol.
 
